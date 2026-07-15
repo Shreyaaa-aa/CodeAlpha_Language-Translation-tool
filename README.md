@@ -1,4 +1,4 @@
-# CodeAlpha_Language-Translation-tool
+Language-Translation-tool
 
 A simple web-based tool that translates text between languages using a live translation API.
 
